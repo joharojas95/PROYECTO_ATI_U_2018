@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambiando mensaje hola.txt en master
+=======
+Cambiando mensaje hola.txt en auxiliar
+>>>>>>> auxiliar
